@@ -128,6 +128,7 @@ class ViewController: UIViewController {
                     buttonText = buttonText + buttonText + buttonText
                 }
                 
+                // SET SHAPES STRING
                 button.setTitle(buttonText, for: .normal)
                 
                 // ASSIGN SHADING
